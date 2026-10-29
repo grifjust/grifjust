@@ -1,14 +1,14 @@
 
 
 
-<h1 align="left">Hi there, I'm Griff 👋</h1>
+<h1 align="left">Hello 👋</h1>
 
 
 ## 🧰 Tech Stack 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,raspberrypi,powershell,ps,autocad," />
+    <img src="https://skillicons.dev/icons?i=python,vscode,raspberrypi,powershell,ps,autocad,mysql,linux" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 
 
-## 👨‍💻 About Me
+## About Me
   
 - 📚 Passionate about continuous learning and strengthening digital defenses.
 - 🕵️‍♂️ Exploring offensive security techniques.
